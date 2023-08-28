@@ -102,7 +102,7 @@ int main ()
 
 /*********** unique_ptr *********************/
 
-// Unique Pointers: exclusive owenership
+// Unique Pointers: exclusive owenership//
 
 class Dog {
       //Bone* pB;
