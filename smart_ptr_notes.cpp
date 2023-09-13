@@ -4,7 +4,7 @@
 // 2. When a pointee outlives all its pointers: resource leak
 //
 // Smart Pointers: Make sure the lifetime of a pointer and pointee match.
-
+//hai heloo alll
 class Dog {
     string m_name;
   public:
